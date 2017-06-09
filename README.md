@@ -1,3 +1,5 @@
 # typescript-sandbox
 
-This repo is to create common components for web ui.
+* This repo contains common components for web ui.
+
+
