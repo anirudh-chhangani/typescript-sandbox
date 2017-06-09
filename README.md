@@ -1,2 +1,3 @@
 # typescript-sandbox
-learning typescript
+
+This repo is to create common components for web ui.
